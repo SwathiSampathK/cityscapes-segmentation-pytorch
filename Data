@@ -1,0 +1,15 @@
+# Cityscapes Dataset Setup
+
+This project uses the **Cityscapes Dataset** for semantic segmentation of urban street scenes.  
+Due to licensing restrictions, the dataset **cannot be redistributed here**.
+
+---
+
+## Download Instructions
+1. Register and log in at the official Cityscapes website:  
+   [https://www.cityscapes-dataset.com/downloads/](https://www.cityscapes-dataset.com/downloads/)
+
+2. Download the following files:
+   - `leftImg8bit_trainvaltest.zip` → RGB input images
+   - `gtFine_trainvaltest.zip` → Ground truth fine annotations (segmentation masks)
+
